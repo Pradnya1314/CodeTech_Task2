@@ -5,6 +5,7 @@ This is a simple Python project that reads sales data from a CSV file, analyzes 
 ## Project Structure
 
 codetech_Task2
+
 ├── sales_data.csv               
 ├── report_generator.py  
 └── simple_sales_report.pdf     
