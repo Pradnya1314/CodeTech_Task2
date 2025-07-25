@@ -64,4 +64,6 @@ Feel free to fork the repo and add enhancements like:
 
  
 ## sumbitted
- Pradnya Mhatre
+ Pradnya Pramod Mhatre
+
+Intership:CodeTech_Task2
